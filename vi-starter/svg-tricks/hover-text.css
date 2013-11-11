@@ -1,0 +1,8 @@
+/*** SVG demonstration hover-text.css ***/
+
+g text.tooltip  {
+                 display: none;
+                          }
+g:hover text.tooltip {
+                      display: inline;
+                               }

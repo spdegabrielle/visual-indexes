@@ -1,0 +1,24 @@
+<defs id="defs1">
+    <style type="text/css"><![CDATA[
+  #threads path {stroke:black; stroke-width: 1px; } // stroke-dasharray: 5px, 7px; }
+    ]]></style>
+
+<!-- agent symbols -->
+
+ <symbol id="From" viewBox="0 0 16 16">
+  <desc>MySymbol - four rectangles in a grid</desc>
+  <circle cx="8" cy="8" r="5" stroke="black" fill="black" stroke-width="2"  />
+ </symbol>
+
+ <symbol id="To" width="16" height="16"  viewBox="0 0 16 16">
+  <rect x="0" y="0" width="16" height="16" stroke="black" fill="lightblue" stroke-width="1"  />
+ </symbol>
+ 
+ <symbol id="Cc" width="16" height="16"  viewBox="0 0 16 16">
+  <rect x="0" y="0" width="16" height="16" stroke="black" fill="white" stroke-width="1"  />
+ </symbol>
+ 
+ <symbol id="Bcc" width="16" height="16"  viewBox="0 0 16 16">
+  <rect x="0" y="0" width="16" height="16" stroke="black" fill="white" stroke-width="1"  />
+ </symbol>
+</defs>

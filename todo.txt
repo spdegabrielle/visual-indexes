@@ -1,0 +1,5 @@
+    - email template
+    - Shading boundaries to correspond with on day boundaries (event and default)
+    - Day refs half way down day region
+    - Frozen column headers (event and default)
+    - Emails appear in fixed position (in browser), each new one replacing the one before (event, default and threads)

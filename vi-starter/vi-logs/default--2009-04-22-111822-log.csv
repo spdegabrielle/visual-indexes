@@ -1,0 +1,8 @@
+127.0.0.1 - - [22/Apr/2009:11:18:29 +0100] "GET /vi-default-3sort.ss HTTP/1.1" 200 512
+127.0.0.1 - - [22/Apr/2009:11:18:29 +0100] "GET /favicon.ico HTTP/1.1" 200 512
+127.0.0.1 - - [22/Apr/2009:11:18:29 +0100] "GET /OUT/default-vi-date.svg HTTP/1.1" 200 512
+127.0.0.1 - - [22/Apr/2009:11:18:29 +0100] "GET /OUT/vi-default-header-file.svg HTTP/1.1" 200 512
+127.0.0.1 - - [22/Apr/2009:11:18:29 +0100] "GET /OUT/hover-style.css HTTP/1.1" 200 512
+127.0.0.1 - - [22/Apr/2009:11:18:33 +0100] "GET /OUT/Romine-to-Bambos-11am-Jan-20-2000.html HTTP/1.1" 200 512
+127.0.0.1 - - [22/Apr/2009:11:33:55 +0100] "GET /quit HTTP/1.1" 200 512
+127.0.0.1 - - [22/Apr/2009:11:33:55 +0100] "GET /error.css HTTP/1.1" 200 512

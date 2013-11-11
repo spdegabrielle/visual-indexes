@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href=""?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="1024" height="100" id="svg" >
+  <title>
+    Events Header
+  </title>
+  <desc>
+    Header file for events frameset
+  </desc>
+  <style type="text/css"><![CDATA[
+
+    ]]></style>
+<defs>
+<!-- no defs -->
+</defs>
+
+<g id="body">
+<!-- -->
+><text id="t1" stroke="none" x="20" y="30" xml:space="preserve">
+<a  xlink:href="default-vi-sender.svg" target="mainFrame">
+<tspan x="100" dy="0" id="ts1" font-family="sans-serif" font-weight="bold" font-size="70%">from</tspan></a>
+<tspan x="280" dy="0" id="ts1" font-family="sans-serif" font-weight="bold" font-size="70%">to</tspan>
+<a  xlink:href="default-vi-subject.svg" target="mainFrame"><tspan x="440" dy="0" id="ts1" font-family="sans-serif" font-weight="bold" font-size="70%">subject</tspan></a>
+<a  xlink:href="default-vi-date.svg" target="mainFrame"><tspan x="680" dy="0" id="ts1" font-family="sans-serif" font-weight="bold" font-size="70%">date</tspan></a>
+</text>
+
+</g>
+</svg>
+
+ 
+

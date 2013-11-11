@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href=""?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="1024" height="3000" id="svg" >
+  <title>
+    svg image
+  </title>
+  <desc>
+    svg image
+  </desc>
+
+
+  <style type="text/css"><![CDATA[
+
+    ]]></style>
+<defs>
+<!-- no defs -->
+</defs>
+
+
+
+<g id="body">
+<!-- -->
+<defs id="defs1">
+    <style type="text/css"><![CDATA[
+ //#threads path {stroke:black; stroke-width: 1px; } // stroke-dasharray: 5px, 7px; }
+    ]]></style>
+
+<!-- agent symbols -->
+
+ <symbol id="From" viewBox="0 0 16 16">
+  <desc>MySymbol - four rectangles in a grid</desc>
+  <circle cx="8" cy="8" r="5" stroke="black" fill="black" stroke-width="2"  />
+ </symbol>
+
+ <symbol id="To" width="16" height="16"  viewBox="0 0 16 16">
+  <rect x="0" y="0" width="16" height="16" stroke="black" fill="lightblue" stroke-width="1"  />
+ </symbol>
+ 
+ <symbol id="Cc" width="16" height="16"  viewBox="0 0 16 16">
+  <rect x="0" y="0" width="16" height="16" stroke="black" fill="white" stroke-width="1"  />
+ </symbol>
+ 
+ <symbol id="Bcc" width="16" height="16"  viewBox="0 0 16 16">
+  <rect x="0" y="0" width="16" height="16" stroke="black" fill="white" stroke-width="1"  />
+ </symbol>
+</defs>
+
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+<text  id="event-labels"  stroke="none"  x="830"  y="125"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >25 Jan 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="153"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >26 Jan 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="205"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >17 Feb 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="393"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >25 Feb 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="413"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >26 Feb 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="433"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >27 Feb 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="533"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >04 Mar 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="565"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >13 Mar 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="653"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >17 Mar 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="693"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >21 Apr 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="713"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >23 Apr 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="895"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >19 May 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="973"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >25 May 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="993"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >26 May 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="1133"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >14 Aug 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="1153"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >15 Aug 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="1193"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >21 Aug 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="1213"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >28 Aug 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="1515"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >11 Oct 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="1553"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >14 Oct 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="1573"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >15 Oct 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="1605"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >16 Oct 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="1653"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >20 Oct 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="1673"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >22 Oct 2000</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="1905"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >02 Mar 2001</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="1925"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >08 Mar 2001</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="1953"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >09 Mar 2001</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="1993"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >15 Mar 2001</tspan>
+</text><text  id="event-labels"  stroke="none"  x="830"  y="2173"  xml:space="preserve" >
+<tspan  id="eventtxt"  stroke="none"  dx="5"  dy="0"  xml:space="preserve" font-family="sans-serif" font-size="70%" >04 May 2001</tspan>
+</text><line  stroke="black" stroke-width="0.5" x1="830" y1="693" x2="630" y2="545" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="713" x2="630" y2="545" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="895" x2="630" y2="545" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1673" x2="630" y2="1525" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1653" x2="630" y2="1525" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="653" x2="630" y2="665" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="693" x2="630" y2="665" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="713" x2="630" y2="665" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="895" x2="630" y2="665" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="2173" x2="630" y2="2145" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1553" x2="630" y2="1505" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1573" x2="630" y2="1505" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1605" x2="630" y2="1505" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="973" x2="630" y2="925" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="533" x2="630" y2="445" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="413" x2="630" y2="165" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="433" x2="630" y2="165" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1953" x2="630" y2="1885" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1905" x2="630" y2="1885" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="2173" x2="630" y2="2045" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1193" x2="630" y2="1105" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="413" x2="630" y2="225" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="433" x2="630" y2="225" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="2173" x2="630" y2="2025" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="973" x2="630" y2="905" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="993" x2="630" y2="905" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1953" x2="630" y2="1865" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1905" x2="630" y2="1865" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="125" x2="630" y2="105" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="153" x2="630" y2="105" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="2173" x2="630" y2="2085" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="973" x2="630" y2="825" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="993" x2="630" y2="825" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="895" x2="630" y2="825" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="693" x2="630" y2="825" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="713" x2="630" y2="825" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="533" x2="630" y2="485" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="2173" x2="630" y2="2125" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1553" x2="630" y2="1325" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1573" x2="630" y2="1325" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1993" x2="630" y2="1965" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="653" x2="630" y2="585" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="693" x2="630" y2="585" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="713" x2="630" y2="585" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="895" x2="630" y2="585" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="653" x2="630" y2="625" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="693" x2="630" y2="625" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="713" x2="630" y2="625" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="895" x2="630" y2="625" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="565" x2="630" y2="565" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="693" x2="630" y2="565" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="713" x2="630" y2="565" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="895" x2="630" y2="565" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="205" x2="630" y2="185" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="693" x2="630" y2="785" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="713" x2="630" y2="785" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="895" x2="630" y2="785" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="993" x2="630" y2="785" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1133" x2="630" y2="1065" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1153" x2="630" y2="1065" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1193" x2="630" y2="1065" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1213" x2="630" y2="1065" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="413" x2="630" y2="285" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="433" x2="630" y2="285" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="653" x2="630" y2="605" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="693" x2="630" y2="605" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="713" x2="630" y2="605" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="895" x2="630" y2="605" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="125" x2="630" y2="25" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="153" x2="630" y2="25" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="533" x2="630" y2="465" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="393" x2="630" y2="365" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="413" x2="630" y2="365" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="433" x2="630" y2="365" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="393" x2="630" y2="265" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="413" x2="630" y2="265" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="433" x2="630" y2="265" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="973" x2="630" y2="885" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="993" x2="630" y2="885" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="2173" x2="630" y2="2065" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1905" x2="630" y2="1905" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1925" x2="630" y2="1905" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1953" x2="630" y2="1905" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="125" x2="630" y2="65" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="153" x2="630" y2="65" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="393" x2="630" y2="305" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="413" x2="630" y2="305" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="433" x2="630" y2="305" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="125" x2="630" y2="45" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="153" x2="630" y2="45" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1133" x2="630" y2="1045" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1153" x2="630" y2="1045" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1553" x2="630" y2="1445" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1573" x2="630" y2="1445" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1605" x2="630" y2="1445" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1553" x2="630" y2="1385" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1573" x2="630" y2="1385" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1605" x2="630" y2="1385" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1515" x2="630" y2="1485" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1953" x2="630" y2="1845" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1905" x2="630" y2="1845" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1673" x2="630" y2="1585" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1653" x2="630" y2="1585" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="2173" x2="630" y2="2005" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1953" x2="630" y2="1825" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1905" x2="630" y2="1825" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="973" x2="630" y2="845" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="993" x2="630" y2="845" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="895" x2="630" y2="845" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="693" x2="630" y2="845" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="713" x2="630" y2="845" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1193" x2="630" y2="1085" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1553" x2="630" y2="1365" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1573" x2="630" y2="1365" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1605" x2="630" y2="1365" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1553" x2="630" y2="1345" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1573" x2="630" y2="1345" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="125" x2="630" y2="85" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="153" x2="630" y2="85" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="693" x2="630" y2="805" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="713" x2="630" y2="805" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="895" x2="630" y2="805" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="993" x2="630" y2="805" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="973" x2="630" y2="865" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="993" x2="630" y2="865" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="895" x2="630" y2="865" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="693" x2="630" y2="865" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="713" x2="630" y2="865" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="125" x2="630" y2="125" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="153" x2="630" y2="125" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="393" x2="630" y2="325" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="413" x2="630" y2="325" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="433" x2="630" y2="325" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="693" x2="630" y2="725" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="713" x2="630" y2="725" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="895" x2="630" y2="725" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="993" x2="630" y2="725" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1673" x2="630" y2="1625" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1653" x2="630" y2="1625" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="693" x2="630" y2="765" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="713" x2="630" y2="765" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="895" x2="630" y2="765" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="993" x2="630" y2="765" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="693" x2="630" y2="745" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="713" x2="630" y2="745" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="895" x2="630" y2="745" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="993" x2="630" y2="745" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="393" x2="630" y2="345" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="413" x2="630" y2="345" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="433" x2="630" y2="345" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="533" x2="630" y2="505" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="433" x2="630" y2="205" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="413" x2="630" y2="205" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="2173" x2="630" y2="2105" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1553" x2="630" y2="1405" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1573" x2="630" y2="1405" />
+<line  stroke="black" stroke-width="0.5" x1="830" y1="1605" x2="630" y2="1405" />
+<g id="dates-col">
+<text  id="t1"  stroke="none"  x="20"  y="25"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >20 Jan 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="45"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >20 Jan 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="65"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >20 Jan 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="85"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >20 Jan 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="105"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >20 Jan 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="125"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >25 Jan 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="145"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >26 Jan 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="165"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >14 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="185"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >17 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="205"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >17 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="225"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >17 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="245"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >22 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="265"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >22 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="285"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >22 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="305"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >23 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="325"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >24 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="345"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >24 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="365"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >24 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="385"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >25 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="405"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >26 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="425"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >27 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="445"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >28 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="465"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >29 Feb 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="485"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >01 Mar 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="505"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >01 Mar 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="525"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >04 Mar 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="545"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >12 Mar 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="565"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >13 Mar 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="585"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >16 Mar 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="605"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >16 Mar 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="625"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >16 Mar 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="645"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >17 Mar 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="665"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >16 Mar 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="685"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >21 Apr 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="705"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >23 Apr 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="725"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >01 May 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="745"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >01 May 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="765"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >01 May 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="785"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >10 May 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="805"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >10 May 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="825"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >11 May 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="845"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >11 May 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="865"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >12 May 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="885"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >19 May 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="905"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >19 May 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="925"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >23 May 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="945"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >24 May 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="965"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >25 May 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="985"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >26 May 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1005"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >03 Jun 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1025"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >06 Jul 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1045"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >27 Jul 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1065"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >01 Aug 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1085"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >09 Aug 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1105"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >09 Aug 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1125"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >14 Aug 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1145"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >15 Aug 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1165"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >18 Aug 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1185"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >21 Aug 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1205"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >28 Aug 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1225"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >29 Aug 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1245"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >21 Sep 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1265"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >21 Sep 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1285"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >21 Sep 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1305"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >27 Sep 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1325"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >28 Sep 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1345"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >28 Sep 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1365"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >29 Sep 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1385"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >06 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1405"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >08 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1425"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >09 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1445"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >10 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1465"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >10 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1485"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >10 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1505"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >11 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1525"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >11 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1545"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >14 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1565"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >15 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1585"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >16 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1605"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >16 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1625"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >16 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1645"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >20 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1665"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >22 Oct 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1685"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >20 Dec 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1705"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >22 Dec 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1725"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >27 Dec 2000</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1745"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >03 Jan 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1765"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >29 Jan 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1785"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >29 Jan 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1805"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >29 Jan 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1825"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >09 Feb 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1845"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >12 Feb 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1865"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >13 Feb 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1885"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >13 Feb 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1905"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >02 Mar 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1925"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >08 Mar 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1945"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >09 Mar 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1965"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >14 Mar 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="1985"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >15 Mar 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="2005"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >03 Apr 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="2025"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >06 Apr 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="2045"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >06 Apr 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="2065"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >09 Apr 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="2085"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >09 Apr 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="2105"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >09 Apr 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="2125"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >09 Apr 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="2145"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >09 Apr 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="2165"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >04 May 2001</tspan>
+</text>
+<text  id="t1"  stroke="none"  x="20"  y="2185"  xml:space="preserve" >
+<tspan  x="30"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >22 Oct 2001</tspan>
+</text>
+</g><!-- vi- email-rows  -->
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="25"  xml:space="preserve" >
+<a  xlink:href="sy24.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >wang@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Meeting</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="45"  xml:space="preserve" >
+<a  xlink:href="sy16.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >wang@Poppleton.EDU</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Meeting</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="65"  xml:space="preserve" >
+<a  xlink:href="sy25.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >wang@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Meeting</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="85"  xml:space="preserve" >
+<a  xlink:href="sy26.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >wang@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Meeting (fwd)</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="105"  xml:space="preserve" >
+<a  xlink:href="10726.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >ravi.kemp@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Meeting (fwd)</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="125"  xml:space="preserve" >
+<a  xlink:href="10680.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vsmith@aol.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Meeting (fwd)</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="165"  xml:space="preserve" >
+<a  xlink:href="10493.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >choi@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Visiting Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="185"  xml:space="preserve" >
+<a  xlink:href="10421.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >ravi.kemp@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com, st</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Following our Poppleton relationship</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="205"  xml:space="preserve" >
+<a  xlink:href="10416.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >choi@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visiting Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="225"  xml:space="preserve" >
+<a  xlink:href="10408.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >tom.cunlife@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visiting Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="245"  xml:space="preserve" >
+<a  xlink:href="sy14.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Vince.J.Smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Poppleton Meeting</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="265"  xml:space="preserve" >
+<a  xlink:href="10361.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Poppleton Meeting</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="285"  xml:space="preserve" >
+<a  xlink:href="10360.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >thomas.cunlife@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Poppleton Meeting</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="305"  xml:space="preserve" >
+<a  xlink:href="sy7.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Vince.J.Smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Poppleton Meeting</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="325"  xml:space="preserve" >
+<a  xlink:href="sy22.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: [Fwd: Poppleton Meeting]</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="345"  xml:space="preserve" >
+<a  xlink:href="10326.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.j.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: [Fwd: Poppleton Meeting]</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="365"  xml:space="preserve" >
+<a  xlink:href="10323.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vsmith@aol.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: [Fwd: Poppleton Meeting]</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="445"  xml:space="preserve" >
+<a  xlink:href="10279.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >thomas.cunlife@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Nick Jones</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="465"  xml:space="preserve" >
+<a  xlink:href="10257.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >tom.cunlife@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Nick Jones</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="485"  xml:space="preserve" >
+<a  xlink:href="sy13.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Vince.J.Smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Saturday Lunch</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="505"  xml:space="preserve" >
+<a  xlink:href="102.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Saturday Lunch</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="545"  xml:space="preserve" >
+<a  xlink:href="sy9.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Visit to Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="565"  xml:space="preserve" >
+<a  xlink:href="10097.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >thomas.cunlife@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Visit to Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="585"  xml:space="preserve" >
+<a  xlink:href="10063.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visit to Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="605"  xml:space="preserve" >
+<a  xlink:href="sy2.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Shirley.Crenwood@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Conference Call on Friday, March 17th</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="625"  xml:space="preserve" >
+<a  xlink:href="10055.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >shirley.tate@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Conference Call on Friday, March 17th</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="665"  xml:space="preserve" >
+<a  xlink:href="10043.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >shirley.tate@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Conference Call on Friday, March 17th</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="725"  xml:space="preserve" >
+<a  xlink:href="sy10.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Vince.J.Smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visit to Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="745"  xml:space="preserve" >
+<a  xlink:href="4052.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >thomas.cunlife@enron.com, stins</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visit to Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="765"  xml:space="preserve" >
+<a  xlink:href="61b.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >tom.cunlife@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visit to Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="785"  xml:space="preserve" >
+<a  xlink:href="4026.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visit to Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="805"  xml:space="preserve" >
+<a  xlink:href="sy11.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Vince.J.Smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visit to Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="825"  xml:space="preserve" >
+<a  xlink:href="9312.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visit to Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="845"  xml:space="preserve" >
+<a  xlink:href="sy8.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visit to Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="865"  xml:space="preserve" >
+<a  xlink:href="4008.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visit to Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="885"  xml:space="preserve" >
+<a  xlink:href="sy5.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Stinson.Zhang@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visit to Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="905"  xml:space="preserve" >
+<a  xlink:href="5638.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visit to Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="925"  xml:space="preserve" >
+<a  xlink:href="3960.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vsmith@aol.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visit to Enron</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="945"  xml:space="preserve" >
+<a  xlink:href="5686.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >shirley.tate@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >carol.green@enron.com, lucy.</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Professor Jones' Itinerary</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1005"  xml:space="preserve" >
+<a  xlink:href="240.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jeff.skilwildeg@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Managing Enron's relationships with the un</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1025"  xml:space="preserve" >
+<a  xlink:href="262.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.j.smith@enron.com, </tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1045"  xml:space="preserve" >
+<a  xlink:href="5051.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1065"  xml:space="preserve" >
+<a  xlink:href="4927.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1085"  xml:space="preserve" >
+<a  xlink:href="19.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >shirley.tate@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com, st</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Professor Jones' Visit to Enron on Monday</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1105"  xml:space="preserve" >
+<a  xlink:href="18.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1165"  xml:space="preserve" >
+<a  xlink:href="16.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >anita.dulux@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Professor Jones' Visit</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1225"  xml:space="preserve" >
+<a  xlink:href="4463.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com, vi</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1245"  xml:space="preserve" >
+<a  xlink:href="sy20.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1265"  xml:space="preserve" >
+<a  xlink:href="1089.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >paul.radfield@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1285"  xml:space="preserve" >
+<a  xlink:href="1090.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1305"  xml:space="preserve" >
+<a  xlink:href="1100.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vsmith@palm.net</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vsmith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Fwd: Jones $$</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1325"  xml:space="preserve" >
+<a  xlink:href="1091.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1345"  xml:space="preserve" >
+<a  xlink:href="sy12.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1365"  xml:space="preserve" >
+<a  xlink:href="1898.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1385"  xml:space="preserve" >
+<a  xlink:href="1206.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.j.smith@enron.com, </tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1405"  xml:space="preserve" >
+<a  xlink:href="1214.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vsmith@aol.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vsmith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Fwd: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1425"  xml:space="preserve" >
+<a  xlink:href="sy6.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Stinson.Zhang@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1445"  xml:space="preserve" >
+<a  xlink:href="1260.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vsmith@aol.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1465"  xml:space="preserve" >
+<a  xlink:href="1276.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >paul.radfield@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1485"  xml:space="preserve" >
+<a  xlink:href="1277.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1505"  xml:space="preserve" >
+<a  xlink:href="1292.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.j.smith@enron.com, </tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1525"  xml:space="preserve" >
+<a  xlink:href="1294.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vsmith@aol.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1585"  xml:space="preserve" >
+<a  xlink:href="sy15.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >VSmith@aol.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1605"  xml:space="preserve" >
+<a  xlink:href="1385.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vsmith@aol.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1625"  xml:space="preserve" >
+<a  xlink:href="1384.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vsmith@aol.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vsmith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Fwd: Enron/Poppleton Program</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1685"  xml:space="preserve" >
+<a  xlink:href="sy1.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Poppleton Project</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1705"  xml:space="preserve" >
+<a  xlink:href="1143.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Poppleton Project</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1725"  xml:space="preserve" >
+<a  xlink:href="sy27.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Poppleton Project</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1745"  xml:space="preserve" >
+<a  xlink:href="2361.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Poppleton Project</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1765"  xml:space="preserve" >
+<a  xlink:href="sy19.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: visit to Houston</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1785"  xml:space="preserve" >
+<a  xlink:href="sy3.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Stinson.Zhang@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: visit to Houston</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1805"  xml:space="preserve" >
+<a  xlink:href="1776.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: visit to Houston</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1825"  xml:space="preserve" >
+<a  xlink:href="sy4.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Stinson.Zhang@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: visit to Houston</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1845"  xml:space="preserve" >
+<a  xlink:href="1552.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >martin.wilde@enron.com, vince.</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: visit to Houston</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1865"  xml:space="preserve" >
+<a  xlink:href="sy18.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: visit to Houston</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1885"  xml:space="preserve" >
+<a  xlink:href="1514.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >martin.wilde@enron.com, vince.</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: visit to Houston</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1905"  xml:space="preserve" >
+<a  xlink:href="1335.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >martin.wilde@enron.com, vince.</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: visit to Houston</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1925"  xml:space="preserve" >
+<a  xlink:href="1213.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >stinson.zhang@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >shirley.tate@enron.com, </tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Schedule for Nick</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="1965"  xml:space="preserve" >
+<a  xlink:href="1121.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Thursday</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="2005"  xml:space="preserve" >
+<a  xlink:href="sy21.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >susan.song@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Visit from Poppleton?</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="2025"  xml:space="preserve" >
+<a  xlink:href="sy23.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >susan.song@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Visiting Enron May 4th</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="2045"  xml:space="preserve" >
+<a  xlink:href="28.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >susan.song@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.j.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Visiting Enron May 4th</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="2065"  xml:space="preserve" >
+<a  xlink:href="26.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >susan.song@poppleton.edu</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Re: Visiting Enron May 4th</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="2085"  xml:space="preserve" >
+<a  xlink:href="25.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >christie.stephens@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Visiting Enron May 4th</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="2105"  xml:space="preserve" >
+<a  xlink:href="303.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >vince.smith@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >shirley.tate@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Visiting Enron May 4th</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="2125"  xml:space="preserve" >
+<a  xlink:href="sy17.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >shirley.tate@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >christie.stephens@enron.com, </tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Visiting Enron May 4th</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="2145"  xml:space="preserve" >
+<a  xlink:href="24.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >christie.stephens@enron.com</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >shirley.tate@enron.com, </tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Visiting Enron May 4th</tspan>
+</a>
+</text>
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="2185"  xml:space="preserve" >
+<a  xlink:href="397.html" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >jones@poppleton.edu</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >j.smith@enron.com</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >Enron/Poppleton Project</tspan>
+</a>
+</text>
+
+
+</g>
+</svg>
+
+ 

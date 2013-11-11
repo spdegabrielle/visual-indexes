@@ -1,0 +1,8 @@
+<!-- vi- email-rows  -->
+<text  id="t1"  stroke="none"  x="20"  y="@yp"  xml:space="preserve" >
+<a  xlink:href="@html-email" target="email-window">
+<tspan  x="100"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >@|from|</tspan>
+<tspan  x="280"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >@|to|</tspan>
+<tspan  x="440"  dy="0"  id="ts1" font-family="sans-serif" font-size="70%" >@|subject|</tspan>
+</a>
+</text>

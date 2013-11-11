@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="hover-style.css"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+
+   
+
+   width="2230" height="635" id="svg2" ><defs id="defs1">
+    <style type="text/css"><![CDATA[
+   //#messages path {stroke-wildeecap:round; stroke-wildeejoin:round; stroke:dimgray; stroke-width: 4px;  marker-start:url(#circle-sender); marker-mid:url(#to-square); marker-end:url(#to-square); } //
+   #threads path {stroke:black; stroke-width: 1px; } // stroke-dasharray: 5px, 7px; }
+  // defs path { marker-mid:none; marker-end:none; }
+    ]]></style>
+     
+    <symbol id="circle" >
+      <circle cx="8" cy="8" r="5" stroke="navy" fill="black" stroke-width="2"  />
+    </symbol>
+
+    <symbol id="sq" >
+      <rect x="0" y="0" width="16" height="16" stroke="navy" fill="white" stroke-width="2"  />
+    </symbol>
+
+<!-- agent symbols -->
+
+ <symbol id="From" viewBox="0 0 16 16">
+  <desc>MySymbol - four rectangles in a grid</desc>
+ <!-- <rect x="0" y="0" width="16" height="16" stroke="black" fill="white" stroke-width="1"  />  -->
+  <circle cx="8" cy="8" r="5" stroke="black" fill="black" stroke-width="2"  />
+ </symbol>
+
+ <symbol id="To" width="16" height="16"  viewBox="0 0 16 16">
+  <rect x="0" y="0" width="16" height="16" stroke="black" fill="lightblue" stroke-width="1"  />
+ <!-- <text stroke="black" fill="black" x="3.5" y="14" >T</text> -->
+ </symbol>
+ 
+ 
+ <symbol id="Cc" width="16" height="16"  viewBox="0 0 16 16">
+  <rect x="0" y="0" width="16" height="16" stroke="black" fill="white" stroke-width="1"  />
+<!--  <text stroke="black" fill="black" x="3.5" y="14" >C</text> -->
+ </symbol>
+ 
+ 
+ <symbol id="Bcc" width="16" height="16"  viewBox="0 0 16 16">
+  <rect x="0" y="0" width="16" height="16" stroke="black" fill="white" stroke-width="1"  />
+<!-- <text stroke="black" fill="black" x="3.5" y="14" >B</text> -->
+ </symbol>
+
+
+<!-- markers -->
+
+
+<marker id="to-square" viewBox="0 0 16 16" refX="8" refY="8" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="0">
+      <use x="0" y="0" xlink:href="#sq" />
+    </marker>
+
+
+    <marker id="Square"  viewBox="0 0 16 16" refX="8" refY="8" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="0">
+        <rect x="0" y="0" width="16" height="16" stroke="navy" fill="white" stroke-width="1"  />
+    </marker>
+
+    <symbol id="circle"  viewBox="0 0 16 16" refX="8" refY="8" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="0">
+      <circle cx="5" cy="5" r="3" stroke="navy" fill="black" stroke-width="2"  />
+    </symbol>
+
+    <marker id="circle-sender"  viewBox="0 0 16 16" refX="8" refY="8" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="0">
+        <use x="0" y="0" xlink:href="#circle" />
+    </marker>
+
+<!--
+     <marker id="sender"  viewBox="0 0 10 10" refX="5" refY="5" 
+      markerUnits="strokeWidth"
+      markerWidth="5" markerHeight="5"
+      orient="90deg">
+      <circle cx="5" cy="5" r="3"
+        stroke="navy" fill="black" stroke-width="2"  />
+    </marker> -->
+
+     <marker id="Triangle"  viewBox="0 0 10 10" refX="10" refY="5" 
+      markerUnits="strokeWidth"
+      markerWidth="5" markerHeight="5"
+      orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+
+
+
+    <marker id="sender-square"  viewBox="0 0 10 10" refX="5" refY="5" 
+      markerUnits="strokeWidth"   
+      markerWidth="5" markerHeight="5" 
+      orient="90deg">
+        <rect x="0" y="0" width="10" height="10"
+     stroke="navy" fill="black" stroke-width="2"  />
+    </marker>
+
+</defs>
+
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+<!-- (c)2008 S.De Gabrielle  --><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="47" x2="2500" y2="47" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="55"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">anita.dulux@enron.com</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="70"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">jones@poppleton.edu</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="77" x2="2500" y2="77" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="85"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">brad.adams@enron.com</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="100"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">wang@poppleton.edu</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="107" x2="2500" y2="107" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="115"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">carol.green@enron.com</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="130"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">chat.harris@enron.com</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="137" x2="2500" y2="137" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="145"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">christie.stephens@enron.com</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="160"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">murraye@poppleton.edu</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="167" x2="2500" y2="167" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="175"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">donna.gottker@poppleton.edu</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="190"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">dorothy.walton@enron.com</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="197" x2="2500" y2="197" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="205"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">choi@poppleton.edu</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="220"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">hillh@poppleton.edu</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="227" x2="2500" y2="227" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="235"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">jeff.skilwildeg@enron.com</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="250"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">jeffrey.theo@enron.com</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="257" x2="2500" y2="257" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="265"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">jo.kanda@enron.com</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="280"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">kayla.tate@enron.com</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="287" x2="2500" y2="287" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="295"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">tundo@poppleton.edu</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="310"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">lucy.jane@enron.com</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="317" x2="2500" y2="317" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="325"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">ljon@aol.com</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="340"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">martin.wilde@enron.com</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="347" x2="2500" y2="347" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="355"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">mewildeda.priller@enron.com</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="370"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">melissa.jones@enron.com</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="377" x2="2500" y2="377" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="385"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">paul.radfield@enron.com</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="400"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">dave.brubeck@enron.com</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="407" x2="2500" y2="407" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="415"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">ravi.kemp@enron.com</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="430"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">sue.darcy@enron.com</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="437" x2="2500" y2="437" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="445"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">shalesh.ganjoo@enron.com</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="460"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">shirley.tate@enron.com</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="467" x2="2500" y2="467" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="475"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">stinson.zhang@enron.com</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="490"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">sue.simpton@enron.com</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="497" x2="2500" y2="497" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="505"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">susan.song@poppleton.edu</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="520"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">tom.cunlife@enron.com</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="527" x2="2500" y2="527" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="535"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">vince.smith@enron.com</tspan></text> <text id="t1" stroke="none" x="20" xml:space="preserve" y="550"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">vsmith@aol.com</tspan></text><line stroke="#eFeFF0" stroke-width="15" x1="20" y1="557" x2="2500" y2="557" /><text id="t1" stroke="none" x="20" xml:space="preserve" y="565"><tspan dx="10" dy="-5" id="ts1" font-family="sans-serif" font-size="70%">vsmith@palm.net</tspan></text><g  id="threads"   fill="black"  >
+<g  style="z-index:-1;"  id="thread:Professor Jones' Visit to Enron on Monday, August 21st" stroke="hotpink"><a xlink:href="data/unmodified-dedupes/19.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="257" x1="1150" y2="527" x2="1150" />
+<line stroke-width="2" y1="257" x1="1150" y2="527" x2="1150" />
+<use height="16" width="16" x="1142" y="444" xlink:href="#From" />
+<use height="16" width="16" x="1142" y="519" xlink:href="#To" /><use height="16" width="16" x="1142" y="459" xlink:href="#To" />
+<use height="16" width="16" x="1142" y="294" xlink:href="#Cc" /><use height="16" width="16" x="1142" y="249" xlink:href="#Cc" />
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="1150"  y="210" dy="0" font-size="18">Professor Jones' Visit to Enron on Monday, August 21st</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Enron/Poppleton Project" stroke="forestgreen"><a xlink:href="data/unmodified-dedupes/397.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="2030" y2="527" x2="2030" />
+<line stroke-width="2" y1="62" x1="2030" y2="527" x2="2030" />
+<use height="16" width="16" x="2022" y="54" xlink:href="#From" />
+<use height="16" width="16" x="2022" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="2030"  y="12" dy="0" font-size="18">Enron/Poppleton Project</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Visiting Enron" stroke="purple" ><path stroke-width="0.5" stroke="purple" d="M 390,169 H 390 V 205 V 169   H 430 V 205 V 169   H 450 V 520 V 169 " /><path stroke-width="0.5" stroke="purple" d="M 390,580 H 390 V 535 V 580   H 430 V 535 V 580   H 450 V 535 V 580 " /><a xlink:href="data/unmodified-dedupes/10416.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="197" x1="430" y2="527" x2="430" />
+<line stroke-width="2" y1="197" x1="430" y2="527" x2="430" />
+<use height="16" width="16" x="422" y="519" xlink:href="#From" />
+<use height="16" width="16" x="422" y="189" xlink:href="#To" />
+<use height="16" width="16" x="422" y="399" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/10493.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="197" x1="390" y2="527" x2="390" />
+<line stroke-width="2" y1="197" x1="390" y2="527" x2="390" />
+<use height="16" width="16" x="382" y="189" xlink:href="#From" />
+<use height="16" width="16" x="382" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/10408.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="512" x1="450" y2="527" x2="450" />
+<line stroke-width="2" y1="512" x1="450" y2="527" x2="450" />
+<use height="16" width="16" x="442" y="519" xlink:href="#From" />
+<use height="16" width="16" x="442" y="504" xlink:href="#To" />
+
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="390"  y="159" dy="0" font-size="18">Visiting Enron</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Following our Poppleton relationship" stroke="fuchsia"><a xlink:href="data/unmodified-dedupes/10421.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="407" x1="410" y2="527" x2="410" />
+<line stroke-width="2" y1="407" x1="410" y2="527" x2="410" />
+<use height="16" width="16" x="402" y="399" xlink:href="#From" />
+<use height="16" width="16" x="402" y="519" xlink:href="#To" /><use height="16" width="16" x="402" y="459" xlink:href="#To" />
+
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="410"  y="369" dy="0" font-size="18">Following our Poppleton relationship</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Visiting Enron May 4th" stroke="orange" ><path stroke-width="0.5" stroke="orange" d="M 1890,31 H 1890 V 70 V 31   H 1910 V 70 V 31   H 1930 V 505 V 31   H 1950 V 145 V 31   H 1970 V 460 V 31   H 1990 V 145 V 31   H 2010 V 145 V 31 " /><path stroke-width="0.5" stroke="orange" d="M 1890,571 H 1890 V 535 V 571   H 1910 V 535 V 571   H 1930 V 535 V 571   H 1950 V 535 V 571   H 1970 V 535 V 571   H 1990 V 460 V 571   H 2010 V 535 V 571 " /><a xlink:href="data/unmodified-dedupes/24.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="137" x1="2010" y2="527" x2="2010" />
+<line stroke-width="2" y1="137" x1="2010" y2="527" x2="2010" />
+<use height="16" width="16" x="2002" y="129" xlink:href="#From" />
+<use height="16" width="16" x="2002" y="444" xlink:href="#To" /><use height="16" width="16" x="2002" y="339" xlink:href="#To" /><use height="16" width="16" x="2002" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Crenwood to Stephens 2 21pm Apr 9 2001.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="137" x1="1990" y2="452" x2="1990" />
+<line stroke-width="2" y1="137" x1="1990" y2="452" x2="1990" />
+<use height="16" width="16" x="1982" y="444" xlink:href="#From" />
+<use height="16" width="16" x="1982" y="129" xlink:href="#To" /><use height="16" width="16" x="1982" y="339" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/28.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1910" y2="527" x2="1910" />
+<line stroke-width="2" y1="62" x1="1910" y2="527" x2="1910" />
+<use height="16" width="16" x="1902" y="489" xlink:href="#From" />
+<use height="16" width="16" x="1902" y="519" xlink:href="#To" />
+<use height="16" width="16" x="1902" y="144" xlink:href="#Cc" /><use height="16" width="16" x="1902" y="159" xlink:href="#Cc" /><use height="16" width="16" x="1902" y="204" xlink:href="#Cc" /><use height="16" width="16" x="1902" y="54" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/25.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="137" x1="1950" y2="527" x2="1950" />
+<line stroke-width="2" y1="137" x1="1950" y2="527" x2="1950" />
+<use height="16" width="16" x="1942" y="519" xlink:href="#From" />
+<use height="16" width="16" x="1942" y="129" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Smith to Song 9 am Apr 6 2001.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1890" y2="527" x2="1890" />
+<line stroke-width="2" y1="62" x1="1890" y2="527" x2="1890" />
+<use height="16" width="16" x="1882" y="519" xlink:href="#From" />
+<use height="16" width="16" x="1882" y="489" xlink:href="#To" />
+<use height="16" width="16" x="1882" y="144" xlink:href="#Cc" /><use height="16" width="16" x="1882" y="159" xlink:href="#Cc" /><use height="16" width="16" x="1882" y="204" xlink:href="#Cc" /><use height="16" width="16" x="1882" y="54" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/26.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="497" x1="1930" y2="527" x2="1930" />
+<line stroke-width="2" y1="497" x1="1930" y2="527" x2="1930" />
+<use height="16" width="16" x="1922" y="519" xlink:href="#From" />
+<use height="16" width="16" x="1922" y="489" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/303.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="452" x1="1970" y2="527" x2="1970" />
+<line stroke-width="2" y1="452" x1="1970" y2="527" x2="1970" />
+<use height="16" width="16" x="1962" y="519" xlink:href="#From" />
+<use height="16" width="16" x="1962" y="444" xlink:href="#To" />
+
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="1890"  y="21" dy="0" font-size="18">Visiting Enron May 4th</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Meeting" stroke="cyan" ><path stroke-width="0.5" stroke="cyan" d="M 270,25 H 270 V 70 V 25   H 290 V 70 V 25   H 310 V 70 V 25   H 330 V 100 V 25   H 350 V 415 V 25   H 370 V 535 V 25 " /><path stroke-width="0.5" stroke="cyan" d="M 270,598 H 270 V 100 V 598   H 290 V 100 V 598   H 310 V 100 V 598   H 330 V 535 V 598   H 350 V 535 V 598   H 370 V 550 V 598 " /><a xlink:href="data/synthetic/Adams to Jones 12 09pm Jan 20 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="310" y2="92" x2="310" />
+<line stroke-width="2" y1="62" x1="310" y2="92" x2="310" />
+<use height="16" width="16" x="302" y="84" xlink:href="#From" />
+<use height="16" width="16" x="302" y="54" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/10680.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="527" x1="370" y2="542" x2="370" />
+<line stroke-width="2" y1="527" x1="370" y2="542" x2="370" />
+<use height="16" width="16" x="362" y="519" xlink:href="#From" />
+<use height="16" width="16" x="362" y="534" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Adams to Smith 12 16pm Jan 20 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="92" x1="330" y2="527" x2="330" />
+<line stroke-width="2" y1="92" x1="330" y2="527" x2="330" />
+<use height="16" width="16" x="322" y="84" xlink:href="#From" />
+<use height="16" width="16" x="322" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Adams-to-Jones-11am-Jan-20-2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="270" y2="92" x2="270" />
+<line stroke-width="2" y1="62" x1="270" y2="92" x2="270" />
+<use height="16" width="16" x="262" y="84" xlink:href="#From" />
+<use height="16" width="16" x="262" y="54" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/10726.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="407" x1="350" y2="527" x2="350" />
+<line stroke-width="2" y1="407" x1="350" y2="527" x2="350" />
+<use height="16" width="16" x="342" y="519" xlink:href="#From" />
+<use height="16" width="16" x="342" y="399" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Jones to Adams 11 21am Jan20 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="290" y2="92" x2="290" />
+<line stroke-width="2" y1="62" x1="290" y2="92" x2="290" />
+<use height="16" width="16" x="282" y="54" xlink:href="#From" />
+<use height="16" width="16" x="282" y="84" xlink:href="#To" />
+
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="270"  y="15" dy="0" font-size="18">Meeting</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Poppleton Meeting" stroke="mediumblue" ><path stroke-width="0.5" stroke="mediumblue" d="M 470,40 H 470 V 70 V 40   H 490 V 70 V 40   H 510 V 415 V 40   H 530 V 70 V 40   H 550 V 70 V 40   H 570 V 70 V 40   H 590 V 70 V 40   H 610 V 535 V 40 " /><path stroke-width="0.5" stroke="mediumblue" d="M 470,580 H 470 V 535 V 580   H 490 V 535 V 580   H 510 V 535 V 580   H 530 V 550 V 580   H 550 V 550 V 580   H 570 V 550 V 580   H 590 V 535 V 580   H 610 V 550 V 580 " /><a xlink:href="data/synthetic/Jones to Smith 2 31pm Feb 24 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="550" y2="542" x2="550" />
+<line stroke-width="2" y1="62" x1="550" y2="542" x2="550" />
+<use height="16" width="16" x="542" y="54" xlink:href="#From" />
+<use height="16" width="16" x="542" y="519" xlink:href="#To" />
+<use height="16" width="16" x="542" y="534" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/10361.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="490" y2="527" x2="490" />
+<line stroke-width="2" y1="62" x1="490" y2="527" x2="490" />
+<use height="16" width="16" x="482" y="519" xlink:href="#From" />
+<use height="16" width="16" x="482" y="54" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Smith to Jones 7 25am Feb 24 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="570" y2="542" x2="570" />
+<line stroke-width="2" y1="62" x1="570" y2="542" x2="570" />
+<use height="16" width="16" x="562" y="519" xlink:href="#From" />
+<use height="16" width="16" x="562" y="54" xlink:href="#To" />
+<use height="16" width="16" x="562" y="534" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/10323.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="527" x1="610" y2="542" x2="610" />
+<line stroke-width="2" y1="527" x1="610" y2="542" x2="610" />
+<use height="16" width="16" x="602" y="519" xlink:href="#From" />
+<use height="16" width="16" x="602" y="534" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/10326.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="590" y2="527" x2="590" />
+<line stroke-width="2" y1="62" x1="590" y2="527" x2="590" />
+<use height="16" width="16" x="582" y="54" xlink:href="#From" />
+<use height="16" width="16" x="582" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Jones to Smith 11 01pm Feb 22 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="530" y2="542" x2="530" />
+<line stroke-width="2" y1="62" x1="530" y2="542" x2="530" />
+<use height="16" width="16" x="522" y="54" xlink:href="#From" />
+<use height="16" width="16" x="522" y="519" xlink:href="#To" />
+<use height="16" width="16" x="522" y="534" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/10360.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="407" x1="510" y2="527" x2="510" />
+<line stroke-width="2" y1="407" x1="510" y2="527" x2="510" />
+<use height="16" width="16" x="502" y="519" xlink:href="#From" />
+<use height="16" width="16" x="502" y="504" xlink:href="#To" />
+<use height="16" width="16" x="502" y="399" xlink:href="#Cc" /><use height="16" width="16" x="502" y="459" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Jones to Smith 12 54pm Feb 22 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="470" y2="527" x2="470" />
+<line stroke-width="2" y1="62" x1="470" y2="527" x2="470" />
+<use height="16" width="16" x="462" y="54" xlink:href="#From" />
+<use height="16" width="16" x="462" y="519" xlink:href="#To" />
+<use height="16" width="16" x="462" y="399" xlink:href="#Cc" /><use height="16" width="16" x="462" y="189" xlink:href="#Cc" />
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="470"  y="30" dy="0" font-size="18">Poppleton Meeting</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Enron/Poppleton Program" stroke="red" ><path stroke-width="0.5" stroke="red" d="M 1090,40 H 1090 V 70 V 40   H 1110 V 70 V 40   H 1130 V 70 V 40   H 1170 V 70 V 40   H 1210 V 70 V 40   H 1230 V 70 V 40   H 1250 V 385 V 40   H 1270 V 70 V 40   H 1310 V 70 V 40   H 1330 V 70 V 40   H 1350 V 70 V 40   H 1370 V 70 V 40   H 1390 V 535 V 40   H 1410 V 70 V 40   H 1430 V 535 V 40   H 1450 V 385 V 40   H 1470 V 475 V 40   H 1490 V 70 V 40   H 1510 V 70 V 40   H 1530 V 70 V 40   H 1550 V 70 V 40   H 1570 V 535 V 40 " /><path stroke-width="0.5" stroke="red" d="M 1090,580 H 1090 V 535 V 580   H 1110 V 535 V 580   H 1130 V 535 V 580   H 1170 V 535 V 580   H 1210 V 535 V 580   H 1230 V 535 V 580   H 1250 V 535 V 580   H 1270 V 535 V 580   H 1310 V 535 V 580   H 1330 V 535 V 580   H 1350 V 550 V 580   H 1370 V 550 V 580   H 1390 V 550 V 580   H 1410 V 475 V 580   H 1430 V 550 V 580   H 1450 V 535 V 580   H 1470 V 535 V 580   H 1490 V 550 V 580   H 1510 V 550 V 580   H 1530 V 550 V 580   H 1550 V 550 V 580   H 1570 V 550 V 580 " /><a xlink:href="data/synthetic/Jones to Smith 11 50 Sep 28 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1330" y2="527" x2="1330" />
+<line stroke-width="2" y1="62" x1="1330" y2="527" x2="1330" />
+<use height="16" width="16" x="1322" y="54" xlink:href="#From" />
+<use height="16" width="16" x="1322" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Jones to Smith 18 38 Oct 16.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1530" y2="542" x2="1530" />
+<line stroke-width="2" y1="62" x1="1530" y2="542" x2="1530" />
+<use height="16" width="16" x="1522" y="54" xlink:href="#From" />
+<use height="16" width="16" x="1522" y="534" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1206.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1370" y2="542" x2="1370" />
+<line stroke-width="2" y1="62" x1="1370" y2="542" x2="1370" />
+<use height="16" width="16" x="1362" y="54" xlink:href="#From" />
+<use height="16" width="16" x="1362" y="519" xlink:href="#To" /><use height="16" width="16" x="1362" y="534" xlink:href="#To" /><use height="16" width="16" x="1362" y="189" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/18.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1170" y2="527" x2="1170" />
+<line stroke-width="2" y1="62" x1="1170" y2="527" x2="1170" />
+<use height="16" width="16" x="1162" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1162" y="54" xlink:href="#To" />
+<use height="16" width="16" x="1162" y="444" xlink:href="#Cc" /><use height="16" width="16" x="1162" y="519" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1277.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="467" x1="1470" y2="527" x2="1470" />
+<line stroke-width="2" y1="467" x1="1470" y2="527" x2="1470" />
+<use height="16" width="16" x="1462" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1462" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1385.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1550" y2="542" x2="1550" />
+<line stroke-width="2" y1="62" x1="1550" y2="542" x2="1550" />
+<use height="16" width="16" x="1542" y="534" xlink:href="#From" />
+<use height="16" width="16" x="1542" y="54" xlink:href="#To" />
+<use height="16" width="16" x="1542" y="519" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1090.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1270" y2="527" x2="1270" />
+<line stroke-width="2" y1="62" x1="1270" y2="527" x2="1270" />
+<use height="16" width="16" x="1262" y="54" xlink:href="#From" />
+<use height="16" width="16" x="1262" y="459" xlink:href="#To" />
+<use height="16" width="16" x="1262" y="519" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1292.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1490" y2="542" x2="1490" />
+<line stroke-width="2" y1="62" x1="1490" y2="542" x2="1490" />
+<use height="16" width="16" x="1482" y="54" xlink:href="#From" />
+<use height="16" width="16" x="1482" y="519" xlink:href="#To" /><use height="16" width="16" x="1482" y="534" xlink:href="#To" /><use height="16" width="16" x="1482" y="189" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1384.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="527" x1="1570" y2="542" x2="1570" />
+<line stroke-width="2" y1="527" x1="1570" y2="542" x2="1570" />
+<use height="16" width="16" x="1562" y="534" xlink:href="#From" />
+<use height="16" width="16" x="1562" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1276.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="377" x1="1450" y2="527" x2="1450" />
+<line stroke-width="2" y1="377" x1="1450" y2="527" x2="1450" />
+<use height="16" width="16" x="1442" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1442" y="369" xlink:href="#To" />
+<use height="16" width="16" x="1442" y="519" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1091.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1310" y2="527" x2="1310" />
+<line stroke-width="2" y1="62" x1="1310" y2="527" x2="1310" />
+<use height="16" width="16" x="1302" y="519" xlink:href="#From" />
+<use height="16" width="16" x="1302" y="54" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/5051.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1110" y2="527" x2="1110" />
+<line stroke-width="2" y1="62" x1="1110" y2="527" x2="1110" />
+<use height="16" width="16" x="1102" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1102" y="54" xlink:href="#To" />
+<use height="16" width="16" x="1102" y="519" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1214.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="527" x1="1390" y2="542" x2="1390" />
+<line stroke-width="2" y1="527" x1="1390" y2="542" x2="1390" />
+<use height="16" width="16" x="1382" y="534" xlink:href="#From" />
+<use height="16" width="16" x="1382" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/4463.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1210" y2="527" x2="1210" />
+<line stroke-width="2" y1="62" x1="1210" y2="527" x2="1210" />
+<use height="16" width="16" x="1202" y="54" xlink:href="#From" />
+<use height="16" width="16" x="1202" y="459" xlink:href="#To" /><use height="16" width="16" x="1202" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Jones to Zhang 12 04pm Oct 9.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1410" y2="467" x2="1410" />
+<line stroke-width="2" y1="62" x1="1410" y2="467" x2="1410" />
+<use height="16" width="16" x="1402" y="54" xlink:href="#From" />
+<use height="16" width="16" x="1402" y="459" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/4927.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1130" y2="527" x2="1130" />
+<line stroke-width="2" y1="62" x1="1130" y2="527" x2="1130" />
+<use height="16" width="16" x="1122" y="54" xlink:href="#From" />
+<use height="16" width="16" x="1122" y="459" xlink:href="#To" />
+<use height="16" width="16" x="1122" y="519" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1294.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1510" y2="542" x2="1510" />
+<line stroke-width="2" y1="62" x1="1510" y2="542" x2="1510" />
+<use height="16" width="16" x="1502" y="534" xlink:href="#From" />
+<use height="16" width="16" x="1502" y="54" xlink:href="#To" />
+<use height="16" width="16" x="1502" y="519" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/262.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1090" y2="527" x2="1090" />
+<line stroke-width="2" y1="62" x1="1090" y2="527" x2="1090" />
+<use height="16" width="16" x="1082" y="54" xlink:href="#From" />
+<use height="16" width="16" x="1082" y="519" xlink:href="#To" /><use height="16" width="16" x="1082" y="459" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1260.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="527" x1="1430" y2="542" x2="1430" />
+<line stroke-width="2" y1="527" x1="1430" y2="542" x2="1430" />
+<use height="16" width="16" x="1422" y="519" xlink:href="#From" />
+<use height="16" width="16" x="1422" y="534" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1089.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="377" x1="1250" y2="527" x2="1250" />
+<line stroke-width="2" y1="377" x1="1250" y2="527" x2="1250" />
+<use height="16" width="16" x="1242" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1242" y="369" xlink:href="#To" />
+<use height="16" width="16" x="1242" y="519" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Zhang to Jones 10 30am Sep 21 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1230" y2="527" x2="1230" />
+<line stroke-width="2" y1="62" x1="1230" y2="527" x2="1230" />
+<use height="16" width="16" x="1222" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1222" y="54" xlink:href="#To" />
+<use height="16" width="16" x="1222" y="519" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1898.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1350" y2="542" x2="1350" />
+<line stroke-width="2" y1="62" x1="1350" y2="542" x2="1350" />
+<use height="16" width="16" x="1342" y="519" xlink:href="#From" />
+<use height="16" width="16" x="1342" y="54" xlink:href="#To" />
+<use height="16" width="16" x="1342" y="534" xlink:href="#Cc" />
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="1090"  y="30" dy="0" font-size="18">Enron/Poppleton Program</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Nick Jones" stroke="yellowgreen" ><path stroke-width="0.5" stroke="yellowgreen" d="M 630,373 H 630 V 415 V 373   H 650 V 520 V 373 " /><path stroke-width="0.5" stroke="yellowgreen" d="M 630,574 H 630 V 535 V 574   H 650 V 535 V 574 " /><a xlink:href="data/unmodified-dedupes/10279.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="407" x1="630" y2="527" x2="630" />
+<line stroke-width="2" y1="407" x1="630" y2="527" x2="630" />
+<use height="16" width="16" x="622" y="519" xlink:href="#From" />
+<use height="16" width="16" x="622" y="504" xlink:href="#To" />
+<use height="16" width="16" x="622" y="399" xlink:href="#Cc" /><use height="16" width="16" x="622" y="459" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/10257.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="512" x1="650" y2="527" x2="650" />
+<line stroke-width="2" y1="512" x1="650" y2="527" x2="650" />
+<use height="16" width="16" x="642" y="504" xlink:href="#From" />
+<use height="16" width="16" x="642" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="630"  y="363" dy="0" font-size="18">Nick Jones</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Visit to Enron" stroke="darkviolet" ><path stroke-width="0.5" stroke="darkviolet" d="M 710,25 H 710 V 70 V 25   H 730 V 475 V 25   H 750 V 70 V 25   H 830 V 70 V 25   H 850 V 415 V 25   H 870 V 520 V 25   H 890 V 70 V 25   H 910 V 70 V 25   H 930 V 70 V 25   H 950 V 70 V 25   H 970 V 70 V 25   H 990 V 70 V 25   H 1010 V 475 V 25   H 1030 V 535 V 25 " /><path stroke-width="0.5" stroke="darkviolet" d="M 710,583 H 710 V 535 V 583   H 730 V 535 V 583   H 750 V 535 V 583   H 830 V 535 V 583   H 850 V 535 V 583   H 870 V 535 V 583   H 890 V 535 V 583   H 910 V 535 V 583   H 930 V 535 V 583   H 950 V 535 V 583   H 970 V 535 V 583   H 990 V 475 V 583   H 1010 V 535 V 583   H 1030 V 550 V 583 " /><a xlink:href="data/unmodified-dedupes/4052.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="407" x1="850" y2="527" x2="850" />
+<line stroke-width="2" y1="407" x1="850" y2="527" x2="850" />
+<use height="16" width="16" x="842" y="519" xlink:href="#From" />
+<use height="16" width="16" x="842" y="504" xlink:href="#To" /><use height="16" width="16" x="842" y="459" xlink:href="#To" /><use height="16" width="16" x="842" y="399" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Jones to Smith 5 32pm Mar 12 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="710" y2="527" x2="710" />
+<line stroke-width="2" y1="62" x1="710" y2="527" x2="710" />
+<use height="16" width="16" x="702" y="54" xlink:href="#From" />
+<use height="16" width="16" x="702" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/61b.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="512" x1="870" y2="527" x2="870" />
+<line stroke-width="2" y1="512" x1="870" y2="527" x2="870" />
+<use height="16" width="16" x="862" y="504" xlink:href="#From" />
+<use height="16" width="16" x="862" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Jones to Smith 5 31pm May 11 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="950" y2="527" x2="950" />
+<line stroke-width="2" y1="62" x1="950" y2="527" x2="950" />
+<use height="16" width="16" x="942" y="54" xlink:href="#From" />
+<use height="16" width="16" x="942" y="519" xlink:href="#To" />
+<use height="16" width="16" x="942" y="459" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/4008.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="970" y2="527" x2="970" />
+<line stroke-width="2" y1="62" x1="970" y2="527" x2="970" />
+<use height="16" width="16" x="962" y="519" xlink:href="#From" />
+<use height="16" width="16" x="962" y="54" xlink:href="#To" />
+<use height="16" width="16" x="962" y="459" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Jones to Smith 10 49am May 10 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="910" y2="527" x2="910" />
+<line stroke-width="2" y1="62" x1="910" y2="527" x2="910" />
+<use height="16" width="16" x="902" y="54" xlink:href="#From" />
+<use height="16" width="16" x="902" y="519" xlink:href="#To" />
+<use height="16" width="16" x="902" y="459" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/10063.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="750" y2="527" x2="750" />
+<line stroke-width="2" y1="62" x1="750" y2="527" x2="750" />
+<use height="16" width="16" x="742" y="519" xlink:href="#From" />
+<use height="16" width="16" x="742" y="54" xlink:href="#To" />
+<use height="16" width="16" x="742" y="459" xlink:href="#Cc" /><use height="16" width="16" x="742" y="444" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Jones to Smith 9 01am May 1 2000 .eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="830" y2="527" x2="830" />
+<line stroke-width="2" y1="62" x1="830" y2="527" x2="830" />
+<use height="16" width="16" x="822" y="54" xlink:href="#From" />
+<use height="16" width="16" x="822" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/3960.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="527" x1="1030" y2="542" x2="1030" />
+<line stroke-width="2" y1="527" x1="1030" y2="542" x2="1030" />
+<use height="16" width="16" x="1022" y="519" xlink:href="#From" />
+<use height="16" width="16" x="1022" y="534" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/4026.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="890" y2="527" x2="890" />
+<line stroke-width="2" y1="62" x1="890" y2="527" x2="890" />
+<use height="16" width="16" x="882" y="519" xlink:href="#From" />
+<use height="16" width="16" x="882" y="54" xlink:href="#To" />
+<use height="16" width="16" x="882" y="459" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/10097.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="467" x1="730" y2="527" x2="730" />
+<line stroke-width="2" y1="467" x1="730" y2="527" x2="730" />
+<use height="16" width="16" x="722" y="519" xlink:href="#From" />
+<use height="16" width="16" x="722" y="504" xlink:href="#To" />
+<use height="16" width="16" x="722" y="459" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/9312.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="930" y2="527" x2="930" />
+<line stroke-width="2" y1="62" x1="930" y2="527" x2="930" />
+<use height="16" width="16" x="922" y="519" xlink:href="#From" />
+<use height="16" width="16" x="922" y="54" xlink:href="#To" />
+<use height="16" width="16" x="922" y="459" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Jones to Zhang 11 33am May 19 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="990" y2="467" x2="990" />
+<line stroke-width="2" y1="62" x1="990" y2="467" x2="990" />
+<use height="16" width="16" x="982" y="54" xlink:href="#From" />
+<use height="16" width="16" x="982" y="459" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/5638.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="467" x1="1010" y2="527" x2="1010" />
+<line stroke-width="2" y1="467" x1="1010" y2="527" x2="1010" />
+<use height="16" width="16" x="1002" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1002" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="710"  y="15" dy="0" font-size="18">Visit to Enron</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Managing Enron's relationships with the universities" stroke="maroon"><a xlink:href="data/unmodified-dedupes/240.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="227" x1="1070" y2="527" x2="1070" />
+<line stroke-width="2" y1="227" x1="1070" y2="527" x2="1070" />
+<use height="16" width="16" x="1062" y="519" xlink:href="#From" />
+<use height="16" width="16" x="1062" y="219" xlink:href="#To" />
+<use height="16" width="16" x="1062" y="234" xlink:href="#Cc" />
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="1070"  y="189" dy="0" font-size="18">Managing Enron's relationships with the universities</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Schedule for Nick" stroke="hotpink"><a xlink:href="data/unmodified-dedupes/1213.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="77" x1="1830" y2="527" x2="1830" />
+<line stroke-width="2" y1="77" x1="1830" y2="527" x2="1830" />
+<use height="16" width="16" x="1822" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1822" y="444" xlink:href="#To" /><use height="16" width="16" x="1822" y="519" xlink:href="#To" />
+<use height="16" width="16" x="1822" y="324" xlink:href="#Cc" /><use height="16" width="16" x="1822" y="429" xlink:href="#Cc" /><use height="16" width="16" x="1822" y="69" xlink:href="#Cc" />
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="1830"  y="30" dy="0" font-size="18">Schedule for Nick</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Professor Jones' Visit" stroke="forestgreen"><a xlink:href="data/unmodified-dedupes/16.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="47" x1="1190" y2="527" x2="1190" />
+<line stroke-width="2" y1="47" x1="1190" y2="527" x2="1190" />
+<use height="16" width="16" x="1182" y="39" xlink:href="#From" />
+<use height="16" width="16" x="1182" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="1190"  y="-3" dy="0" font-size="18">Professor Jones' Visit</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Jones $$" stroke="purple"><a xlink:href="data/unmodified-dedupes/1100.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="527" x1="1290" y2="557" x2="1290" />
+<line stroke-width="2" y1="527" x1="1290" y2="557" x2="1290" />
+<use height="16" width="16" x="1282" y="549" xlink:href="#From" />
+<use height="16" width="16" x="1282" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="1290"  y="486" dy="0" font-size="18">Jones $$</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Visit from Poppleton?" stroke="fuchsia"><a xlink:href="data/synthetic/Song to Smith 4 33pm Apr 3 2001.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="497" x1="1870" y2="527" x2="1870" />
+<line stroke-width="2" y1="497" x1="1870" y2="527" x2="1870" />
+<use height="16" width="16" x="1862" y="489" xlink:href="#From" />
+<use height="16" width="16" x="1862" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="1870"  y="447" dy="0" font-size="18">Visit from Poppleton?</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Thursday" stroke="orange"><a xlink:href="data/unmodified-dedupes/1121.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1850" y2="542" x2="1850" />
+<line stroke-width="2" y1="62" x1="1850" y2="542" x2="1850" />
+<use height="16" width="16" x="1842" y="519" xlink:href="#From" />
+<use height="16" width="16" x="1842" y="54" xlink:href="#To" />
+<use height="16" width="16" x="1842" y="534" xlink:href="#Cc" />
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="1850"  y="15" dy="0" font-size="18">Thursday</text>
+</g>
+<g  style="z-index:-1;"  id="thread:visit to Houston" stroke="cyan" ><path stroke-width="0.5" stroke="cyan" d="M 1670,28 H 1670 V 70 V 28   H 1690 V 70 V 28   H 1710 V 340 V 28   H 1730 V 70 V 28   H 1750 V 340 V 28   H 1770 V 70 V 28   H 1790 V 340 V 28   H 1810 V 340 V 28 " /><path stroke-width="0.5" stroke="cyan" d="M 1670,571 H 1670 V 475 V 571   H 1690 V 475 V 571   H 1710 V 535 V 571   H 1730 V 475 V 571   H 1750 V 535 V 571   H 1770 V 475 V 571   H 1790 V 535 V 571   H 1810 V 535 V 571 " /><a xlink:href="data/synthetic/Jones to Zhang 10 54 Jan 29 2001.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1690" y2="467" x2="1690" />
+<line stroke-width="2" y1="62" x1="1690" y2="467" x2="1690" />
+<use height="16" width="16" x="1682" y="54" xlink:href="#From" />
+<use height="16" width="16" x="1682" y="459" xlink:href="#To" />
+
+<use height="16" width="16" x="1682" y="324" xlink:href="#Bcc" />
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1335.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="332" x1="1810" y2="527" x2="1810" />
+<line stroke-width="2" y1="332" x1="1810" y2="527" x2="1810" />
+<use height="16" width="16" x="1802" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1802" y="324" xlink:href="#To" /><use height="16" width="16" x="1802" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Zhang to Jones 9 30 Jan 29 2001.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1670" y2="467" x2="1670" />
+<line stroke-width="2" y1="62" x1="1670" y2="467" x2="1670" />
+<use height="16" width="16" x="1662" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1662" y="54" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Jones to Zhang 11 33 Feb 9 2001.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1730" y2="467" x2="1730" />
+<line stroke-width="2" y1="62" x1="1730" y2="467" x2="1730" />
+<use height="16" width="16" x="1722" y="54" xlink:href="#From" />
+<use height="16" width="16" x="1722" y="459" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Zhang to Jones 4 36 Feb 13 2001.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1770" y2="467" x2="1770" />
+<line stroke-width="2" y1="62" x1="1770" y2="467" x2="1770" />
+<use height="16" width="16" x="1762" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1762" y="54" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1552.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="332" x1="1750" y2="527" x2="1750" />
+<line stroke-width="2" y1="332" x1="1750" y2="527" x2="1750" />
+<use height="16" width="16" x="1742" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1742" y="324" xlink:href="#To" /><use height="16" width="16" x="1742" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1776.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="332" x1="1710" y2="527" x2="1710" />
+<line stroke-width="2" y1="332" x1="1710" y2="527" x2="1710" />
+<use height="16" width="16" x="1702" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1702" y="519" xlink:href="#To" />
+<use height="16" width="16" x="1702" y="324" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/1514.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="332" x1="1790" y2="527" x2="1790" />
+<line stroke-width="2" y1="332" x1="1790" y2="527" x2="1790" />
+<use height="16" width="16" x="1782" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1782" y="324" xlink:href="#To" /><use height="16" width="16" x="1782" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="1670"  y="18" dy="0" font-size="18">visit to Houston</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Poppleton Project" stroke="mediumblue" ><path stroke-width="0.5" stroke="mediumblue" d="M 1590,40 H 1590 V 70 V 40   H 1610 V 70 V 40   H 1630 V 70 V 40   H 1650 V 475 V 40 " /><path stroke-width="0.5" stroke="mediumblue" d="M 1590,565 H 1590 V 535 V 565   H 1610 V 535 V 565   H 1630 V 475 V 565   H 1650 V 535 V 565 " /><a xlink:href="data/unmodified-dedupes/1143.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1610" y2="527" x2="1610" />
+<line stroke-width="2" y1="62" x1="1610" y2="527" x2="1610" />
+<use height="16" width="16" x="1602" y="519" xlink:href="#From" />
+<use height="16" width="16" x="1602" y="54" xlink:href="#To" />
+<use height="16" width="16" x="1602" y="459" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Stinson to Jones 17 04 Dec 27.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1630" y2="467" x2="1630" />
+<line stroke-width="2" y1="62" x1="1630" y2="467" x2="1630" />
+<use height="16" width="16" x="1622" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1622" y="54" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Jones Christmas message 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="1590" y2="527" x2="1590" />
+<line stroke-width="2" y1="62" x1="1590" y2="527" x2="1590" />
+<use height="16" width="16" x="1582" y="54" xlink:href="#From" />
+<use height="16" width="16" x="1582" y="519" xlink:href="#To" />
+<use height="16" width="16" x="1582" y="459" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/2361.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="467" x1="1650" y2="527" x2="1650" />
+<line stroke-width="2" y1="467" x1="1650" y2="527" x2="1650" />
+<use height="16" width="16" x="1642" y="459" xlink:href="#From" />
+<use height="16" width="16" x="1642" y="519" xlink:href="#To" />
+
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="1590"  y="30" dy="0" font-size="18">Poppleton Project</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Saturday Lunch" stroke="red" ><path stroke-width="0.5" stroke="red" d="M 670,40 H 670 V 70 V 40   H 690 V 70 V 40 " /><path stroke-width="0.5" stroke="red" d="M 670,586 H 670 V 550 V 586   H 690 V 550 V 586 " /><a xlink:href="data/unmodified-dedupes/102.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="690" y2="542" x2="690" />
+<line stroke-width="2" y1="62" x1="690" y2="542" x2="690" />
+<use height="16" width="16" x="682" y="519" xlink:href="#From" />
+<use height="16" width="16" x="682" y="54" xlink:href="#To" />
+<use height="16" width="16" x="682" y="309" xlink:href="#Cc" /><use height="16" width="16" x="682" y="534" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/synthetic/Jones to Smith 12 32pm Mar 1 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="670" y2="542" x2="670" />
+<line stroke-width="2" y1="62" x1="670" y2="542" x2="670" />
+<use height="16" width="16" x="662" y="54" xlink:href="#From" />
+<use height="16" width="16" x="662" y="519" xlink:href="#To" />
+<use height="16" width="16" x="662" y="534" xlink:href="#Cc" /><use height="16" width="16" x="662" y="279" xlink:href="#Cc" />
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="670"  y="30" dy="0" font-size="18">Saturday Lunch</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Conference Call on Friday, March 17th" stroke="yellowgreen" ><path stroke-width="0.5" stroke="yellowgreen" d="M 770,31 H 770 V 70 V 31   H 790 V 70 V 31   H 810 V 70 V 31 " /><path stroke-width="0.5" stroke="yellowgreen" d="M 770,577 H 770 V 460 V 577   H 790 V 535 V 577   H 810 V 535 V 577 " /><a xlink:href="data/synthetic/Jones to Crenwood 12 28pm Mar 16 2000.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="770" y2="452" x2="770" />
+<line stroke-width="2" y1="62" x1="770" y2="452" x2="770" />
+<use height="16" width="16" x="762" y="54" xlink:href="#From" />
+<use height="16" width="16" x="762" y="444" xlink:href="#To" />
+
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/10043.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="810" y2="527" x2="810" />
+<line stroke-width="2" y1="62" x1="810" y2="527" x2="810" />
+<use height="16" width="16" x="802" y="54" xlink:href="#From" />
+<use height="16" width="16" x="802" y="444" xlink:href="#To" />
+<use height="16" width="16" x="802" y="519" xlink:href="#Cc" /><use height="16" width="16" x="802" y="459" xlink:href="#Cc" /><use height="16" width="16" x="802" y="504" xlink:href="#Cc" />
+
+
+
+</a>
+
+<a xlink:href="data/unmodified-dedupes/10055.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="62" x1="790" y2="527" x2="790" />
+<line stroke-width="2" y1="62" x1="790" y2="527" x2="790" />
+<use height="16" width="16" x="782" y="444" xlink:href="#From" />
+<use height="16" width="16" x="782" y="54" xlink:href="#To" />
+<use height="16" width="16" x="782" y="519" xlink:href="#Cc" /><use height="16" width="16" x="782" y="459" xlink:href="#Cc" /><use height="16" width="16" x="782" y="504" xlink:href="#Cc" />
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="770"  y="21" dy="0" font-size="18">Conference Call on Friday, March 17th</text>
+</g>
+<g  style="z-index:-1;"  id="thread:Professor Jones' Itinerary" stroke="darkviolet"><a xlink:href="data/unmodified-dedupes/5686.eml">
+<line stroke-width="16" stroke="pink" stroke-opacity="0.0" y1="107" x1="1050" y2="527" x2="1050" />
+<line stroke-width="2" y1="107" x1="1050" y2="527" x2="1050" />
+<use height="16" width="16" x="1042" y="444" xlink:href="#From" />
+<use height="16" width="16" x="1042" y="99" xlink:href="#To" /><use height="16" width="16" x="1042" y="294" xlink:href="#To" /><use height="16" width="16" x="1042" y="474" xlink:href="#To" /><use height="16" width="16" x="1042" y="174" xlink:href="#To" /><use height="16" width="16" x="1042" y="264" xlink:href="#To" /><use height="16" width="16" x="1042" y="354" xlink:href="#To" />
+<use height="16" width="16" x="1042" y="519" xlink:href="#Cc" /><use height="16" width="16" x="1042" y="459" xlink:href="#Cc" /><use height="16" width="16" x="1042" y="414" xlink:href="#Cc" /><use height="16" width="16" x="1042" y="114" xlink:href="#Cc" /><use height="16" width="16" x="1042" y="384" xlink:href="#Cc" />
+
+
+
+</a>
+
+
+
+<text class="tooltip"  style="z-index:2;" fill="black" stroke="black" stroke-width="0" x="1050"  y="60" dy="0" font-size="18">Professor Jones' Itinerary</text>
+</g>
+
+
+</g></svg>
+
+ 

@@ -1,0 +1,7 @@
+/*** SVG hover-style.css  ***/
+
+g#threads g text.tooltip  { display: none; }
+g#threads g:hover text.tooltip { display: inline; }
+
+g.event text.tooltip  { display: none; }
+g.event:hover text.tooltip { display: inline; }

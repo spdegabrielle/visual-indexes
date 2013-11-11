@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="@wide" height="@high" id="@doc-id" >
+<defs id="defs1">
+    <style type="text/css"><![CDATA[
+   //#messages path {stroke-linecap:round; stroke-linejoin:round; stroke:dimgray; stroke-width: 4px;  marker-start:url(#circle-sender); marker-mid:url(#to-square); marker-end:url(#to-square); } //
+   #threads path {stroke:black; stroke-width: 1px; } // stroke-dasharray: 5px, 7px; }
+  // defs path { marker-mid:none; marker-end:none; }
+    ]]></style>
+     
+    <symbol id="circle" >
+      <circle cx="8" cy="8" r="5" stroke="navy" fill="black" stroke-width="2"  />
+    </symbol>
+
+    <symbol id="sq" >
+      <rect x="0" y="0" width="16" height="16" stroke="navy" fill="white" stroke-width="2"  />
+    </symbol>
+
+<!-- agent symbols -->
+
+ <symbol id="From" viewBox="0 0 16 16">
+  <desc>MySymbol - four rectangles in a grid</desc>
+ <!-- <rect x="0" y="0" width="16" height="16" stroke="black" fill="white" stroke-width="1"  />  -->
+  <circle cx="8" cy="8" r="5" stroke="black" fill="black" stroke-width="2"  />
+ </symbol>
+
+ <symbol id="To" width="16" height="16"  viewBox="0 0 16 16">
+
+  <rect x="0" y="0" width="16" height="16" stroke="black" fill="lightblue" stroke-width="1"  />
+ <!-- <text stroke="black" fill="black" x="3.5" y="14" >T</text> -->
+ </symbol>
+ 
+ 
+ <symbol id="Cc" width="16" height="16"  viewBox="0 0 16 16">
+  <rect x="0" y="0" width="16" height="16" stroke="black" fill="white" stroke-width="1"  />
+<!--  <text stroke="black" fill="black" x="3.5" y="14" >C</text> -->
+ </symbol>
+ 
+ 
+ <symbol id="Bcc" width="16" height="16"  viewBox="0 0 16 16">
+  <rect x="0" y="0" width="16" height="16" stroke="black" fill="white" stroke-width="1"  />
+
+<!-- <text stroke="black" fill="black" x="3.5" y="14" >B</text> -->
+ </symbol>
+
+
+<!-- markers -->
+
+
+<marker id="to-square" viewBox="0 0 16 16" refX="8" refY="8" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="0">
+      <use x="0" y="0" xlink:href="#sq" />
+    </marker>
+
+
+    <marker id="Square"  viewBox="0 0 16 16" refX="8" refY="8" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="0">
+
+        <rect x="0" y="0" width="16" height="16" stroke="navy" fill="white" stroke-width="1"  />
+    </marker>
+
+    <symbol id="circle"  viewBox="0 0 16 16" refX="8" refY="8" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="0">
+      <circle cx="5" cy="5" r="3" stroke="navy" fill="black" stroke-width="2"  />
+    </symbol>
+
+    <marker id="circle-sender"  viewBox="0 0 16 16" refX="8" refY="8" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="0">
+        <use x="0" y="0" xlink:href="#circle" />
+    </marker>
+
+     <marker id="Triangle"  viewBox="0 0 10 10" refX="10" refY="5" 
+      markerUnits="strokeWidth"
+      markerWidth="5" markerHeight="5"
+      orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+
+    <marker id="sender-square"  viewBox="0 0 10 10" refX="5" refY="5" 
+      markerUnits="strokeWidth"   
+      markerWidth="5" markerHeight="5" 
+      orient="90deg">
+        <rect x="0" y="0" width="10" height="10"
+     stroke="navy" fill="black" stroke-width="2"  />
+    </marker>
+
+</defs>
+
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+
+<!-- (c)@this-date @name -->
+
+<g id="email-agent-lines"   fill="black"  >
+
+@email-agent-lines
+
+</g>
+
+<g  id="threads"   fill="black"  >
+  @threads
+</g>
+
+</svg>
